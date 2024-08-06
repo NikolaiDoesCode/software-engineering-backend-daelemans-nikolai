@@ -1,0 +1,48 @@
+http://localhost:8080/api/rental/search?email=data@ucll.be
+http://localhost:8080/api/rental/search?startDate=2024-09-01
+http://localhost:8080/api/rental/search?endDate=2024-10-01
+http://localhost:8080/api/rental/search?brand=Toyota
+http://localhost:8080/api/rental/search?city=Luik
+http://localhost:8080/api/rental/search?email=user@ucll.be&startDate=2024-09-01&endDate=2024-10-01&city=Luik
+
+
+
+
+  {
+    "startDate": "2024-07-27",
+    "startTime": "13:00",
+    "endDate": "2024-07-30",
+    "endTime": "15:00",
+    "street": "Geldenaaksebaan",
+    "number":  "335",
+    "postal": "3000",
+    "city": "Leuven",
+    "phoneNumber":  "0498765432",
+    "email":  "software@ucll.be"
+  }
+
+  {
+    "startDate": "2024-09-01",
+    "startTime": "13:00",
+    "endDate": "2024-10-01",
+    "endTime": "15:00",
+    "street": "Geldenaaksebaan",
+    "number":  "335",
+    "postal": "4000",
+    "city": "Luik",
+    "phoneNumber":  "0498765432",
+    "email":  "software@ucll.be"
+  }
+
+  {
+    "startDate": "2024-09-01",
+    "startTime": "13:00",
+    "endDate": "2024-10-01",
+    "endTime": "15:00",
+    "street": "Geldenaaksebaan",
+    "number":  "335",
+    "postal": "4000",
+    "city": "Luik",
+    "phoneNumber":  "0498765432",
+    "email":  "data@ucll.be"
+  }

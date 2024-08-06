@@ -1,0 +1,31 @@
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "SUV",
+    "licensePlate": "1-XHA-412",
+    "numberOfSeats": 5,
+    "numberOfChildSeats": 0,
+    "foldingRearSeat": true,
+    "towBar": false
+  },
+  {
+    "brand": "BMW",
+    "model": "X6",
+    "type": "COUPE",
+    "licensePlate": "KU-D8H",
+    "numberOfSeats": 5,
+    "numberOfChildSeats": 1,
+    "foldingRearSeat": true,
+    "towBar": false
+  },
+  {
+    "brand": "Mini Cooper",
+    "model": "Mini",
+    "type": "COUPE",
+    "licensePlate": "1-GTN-653",
+    "numberOfSeats": 5,
+    "numberOfChildSeats": 0,
+    "foldingRearSeat": false,
+    "towBar": true
+  }
+
